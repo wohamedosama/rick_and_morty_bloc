@@ -1,0 +1,12 @@
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/icons/rick-and-morty-rick.gif
+  #color_dark: "#121212"
+  image_dark: assets/icons/rick-and-morty-rick.gif
+  
+
+  android_12:
+    image: assets/icons/rick-and-morty-rick.gif
+    icon_background_color: "#ffffff"
+    image_dark: assets/icons/rick-and-morty-rick.gif
+    icon_background_color_dark: "#121212"
