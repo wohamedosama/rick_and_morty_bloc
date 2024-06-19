@@ -1,16 +1,45 @@
-# flutter_rick_and_morty
+# 📘: Overview 
 
-A new Flutter project.
+![Untitled-1](https://github.com/omarahmedx14/Flutter-BLoC/assets/97545898/c6edaccf-0661-4741-a8ae-d031282a7a7d)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+- Useb Flutter with Bloc pattern to handle API about Rick and Morty series
+- Played With some anamited UI Widgets
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# :pushpin: Data source
+
+
+- I found this free API : [Rick and Morty API](https://rickandmortyapi.com/documentation/)
+
+
+
+# :iphone: Screens
+ ## :house: Home Screen
+
+- Used Dio to fetch data.
+
+![hh](https://github.com/omarahmedx14/Flutter-BLoC/assets/97545898/ef1c0003-6f82-4dad-b53a-9548b5135b7a)
+
+
+- Filter list by searching character's name.
+
+
+![hhhg](https://github.com/omarahmedx14/Flutter-BLoC/assets/97545898/2fdf04b9-0e5c-4876-9409-9200a0fbd49a)
+
+
+- Check internet connection
+
+![my phone](https://github.com/omarahmedx14/Flutter-BLoC/assets/97545898/51ed9fed-8f49-4832-9e5b-ce31a952332c)
+
+
+## :mag: Details Screen
+
+- Used Hero animation widget and animated text kit.
+
+![fdfsf](https://github.com/omarahmedx14/Flutter-BLoC/assets/97545898/d4536ccc-19de-48ac-8290-09b8e328a057)
+
+
+
+
